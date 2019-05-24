@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-launch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-secure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-tool" charset="UTF-8" />
+  </component>
+</project>

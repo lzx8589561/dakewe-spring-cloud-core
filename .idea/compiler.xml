@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core-launch" />
+        <module name="core-swagger" />
+        <module name="core-boot" />
+        <module name="core-tool" />
+        <module name="core-log" />
+        <module name="core-secure" />
+        <module name="core-mybatis" />
+        <module name="core-cloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-spring-admin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="core-boot" options="-parameters" />
+      <module name="core-cloud" options="-parameters" />
+      <module name="core-launch" options="-parameters" />
+      <module name="core-log" options="-parameters" />
+      <module name="core-mybatis" options="-parameters" />
+      <module name="core-secure" options="-parameters" />
+      <module name="core-spring-admin" options="-parameters" />
+      <module name="core-swagger" options="-parameters" />
+      <module name="core-tool" options="-parameters" />
+      <module name="dakewe-spring-cloud-core" options="" />
+    </option>
+  </component>
+</project>
